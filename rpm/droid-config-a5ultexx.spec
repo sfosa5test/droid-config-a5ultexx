@@ -20,3 +20,4 @@
 
 Provides: ofono-configs
 
+%include droid-configs-device/droid-configs.inc
